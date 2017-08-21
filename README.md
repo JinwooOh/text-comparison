@@ -1,5 +1,5 @@
 # Text-comparison
-# Text comparison for court reporter. 
+# Text comparison program for court reporter. 
 
 ## Purpose of the Project
 
