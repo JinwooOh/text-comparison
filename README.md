@@ -8,7 +8,9 @@ Download and run text-comparison.jar
 ![Alt text](/imagesforReadMe/result.jpg?raw=true "result txt file")
 
 Original File: your text file
+
 Answer File: text file that you want to compare
+
 Run: produce the output in the same directory of the program 
 
 ## Result Message example
