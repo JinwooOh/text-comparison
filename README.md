@@ -1,5 +1,5 @@
 # Text-comparison
-This is the program that can compare two text files and produces the result. This program is especially useful for a pre-court reporter who wants to compare a typed text file and an original text file.  
+This is the program that can compare two text files and produces the result. This program is especially useful for court reporter and stenographer who want to compare a typed text file and an original text file.  
 
 ## Usage
 Download and run text-comparison.jar
