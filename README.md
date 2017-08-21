@@ -2,9 +2,9 @@
 This is the program that can compare two text files and produces the result. This program is especially useful for a pre-court reporter who wants to compare a typed text file and an original text file.  
 
 ## Usage
-![Alt text](/imagesForReadMe/program.png?raw=true "Program")
+![Alt text](/imagesforReadMe/program.png?raw=true "Program")
 
-![Alt text](/imagesForReadMe/result.jpg?raw=true "result txt file")
+![Alt text](/imagesforReadMe/result.jpg?raw=true "result txt file")
 
 Original File: your text file
 Answer File: text file that you want to compare
