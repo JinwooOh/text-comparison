@@ -22,7 +22,7 @@ Changed: 0.0
 Accuracy: 90.0%
 
 ## How I approach
-My first approach was compared two text files character by character. However, it produced the problem that once it found a different character, It marked the rest of characters are wrong. 
+My first approach was comparing two text files character by character. However, it produced the problem that once it found a different character, it marked the rest of characters are wrong. 
 The second approach was using Longest Common Sequence theory. I needed to study before I jumped into writing code. 
 Applying LCS theory was the right choice and it produces the accurate result. 
 
