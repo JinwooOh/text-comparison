@@ -2,6 +2,7 @@
 This is the program that can compare two text files and produces the result. This program is especially useful for a pre-court reporter who wants to compare a typed text file and an original text file.  
 
 ## Usage
+Download and run text-comparison.jar
 ![Alt text](/imagesforReadMe/program.png?raw=true "Program")
 
 ![Alt text](/imagesforReadMe/result.jpg?raw=true "result txt file")
