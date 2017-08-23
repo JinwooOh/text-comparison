@@ -3,7 +3,7 @@ This is the program that can compare two text files and produces the result. Thi
 
 ## Usage
 Download and run text-comparison.jar
-![Alt text](/imagesforReadMe/program.png?raw=true "Program")
+![Alt text](/imagesforReadMe/program.png?raw=true "Program" = 420x300)
 
 ![Alt text](/imagesforReadMe/result.jpg?raw=true "result txt file")
 
