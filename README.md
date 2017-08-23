@@ -5,7 +5,7 @@ This is the program that can compare two text files and produces the result. Thi
 
 Download and run text-comparison.jar
 
-<img src="/imagesforReadMe/program.png" align="center" height="300" weight="420">
+<img align="center" src="/imagesforReadMe/program.png"  height="300" weight="420">
 
 ![Alt text](/imagesforReadMe/result.jpg?raw=true "result txt file")
 
@@ -32,7 +32,3 @@ Applying LCS theory was the right choice and it produces the accurate result.
 1. LCS table: https://www.youtube.com/watch?v=P-mMvhfJhu8
 2. LCS theory: https://en.wikipedia.org/wiki/Longest_common_subsequence_problem
 
-
-<p align="center">
-  <img />
-</p>
