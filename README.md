@@ -7,7 +7,7 @@ Download and run text-comparison.jar
 
 <img align="center" src="/imagesforReadMe/program.png"  height="300" weight="420">
 
-![Alt text](/imagesforReadMe/result.png?raw=true )
+![Alt text](/imagesforReadMe/result.jpg?raw=true )
 
 Original File: your text file
 
