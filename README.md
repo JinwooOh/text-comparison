@@ -1,11 +1,11 @@
+<img align="center" src="/imagesforReadMe/program.png"  height="300" weight="420">
+
 # Text-comparison
 This is the program that can compare two text files and produces the result. This program is especially useful for court reporters and stenographers who want to compare a typed text file and an original text file.  
 
 ## Usage
 
 Download and run text-comparison.jar
-
-<img align="center" src="/imagesforReadMe/program.png"  height="300" weight="420">
 
 ![Alt text](/imagesforReadMe/result.jpg?raw=true )
 
