@@ -5,8 +5,7 @@ This is the program that can compare two text files and produces the result. Thi
 Download and run text-comparison.jar
 ![Alt text](/imagesforReadMe/program.png?raw=true "Program")
 
-<img width="100" height="100" src="/imagesforReadMe/program.png?raw=true "Program"">
-
+![Alt text](/imagesforReadMe/result.jpg?raw=true "result txt file")
 
 Original File: your text file
 
